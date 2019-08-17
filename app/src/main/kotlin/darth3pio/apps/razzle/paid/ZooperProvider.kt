@@ -13,22 +13,8 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package jahirfiquitiva.apps.blueprint.demo
+package darth3pio.apps.razzle.paid
 
-import jahirfiquitiva.libs.blueprint.ui.BlueprintApp
+import jahirfiquitiva.libs.kuper.providers.zooper.ZooperTemplateProvider
 
-// TODO: Remove comment marks to enable
-// import com.onesignal.OneSignal
-
-class MyApplication : BlueprintApp() {
-    override fun onCreate() {
-        super.onCreate()
-        // TODO: Remove comment marks to enable
-        /*
-        OneSignal.startInit(this)
-                .inFocusDisplaying(OneSignal.OSInFocusDisplayOption.Notification)
-                .unsubscribeWhenNotificationsAreDisabled(true)
-                .init()
-                */
-    }
-}
+class ZooperProvider : ZooperTemplateProvider()

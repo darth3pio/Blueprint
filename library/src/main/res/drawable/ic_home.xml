@@ -15,7 +15,7 @@
   ~ limitations under the License.
   -->
 
-<vector xmlns:android="http://schemas.android.com/apk/res/android"
+<!--<vector xmlns:android="http://schemas.android.com/apk/res/android"
         android:width="24dp"
         android:height="24dp"
         android:viewportWidth="24"
@@ -24,4 +24,15 @@
     <path
         android:fillColor="#fff"
         android:pathData="M10,20.5v-6h4v6h5v-8h3l-10-9l-10,9h3v8H10z" />
+</vector>-->
+
+<vector android:height="24dp" android:viewportHeight="50.8"
+    android:viewportWidth="50.8" android:width="24dp" xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillAlpha="0.8" android:fillColor="#FF000000"
+        android:pathData="M31.738,15.848v3.175L28.564,19.023L28.564,25.372L25.39,25.372L25.39,31.729h3.174v3.175h12.698v3.174h3.183L44.445,31.721L38.096,31.721v-3.175h-3.174v-3.174h-3.175L31.747,19.03h3.166v3.175h3.183v-3.183h-3.174v-3.175h-3.184zM0,28.57v6.358h3.183L3.183,28.57L0,28.57zM6.349,31.745v6.358h12.707v-6.358h-6.358L12.698,34.919L9.532,34.919v-3.174L6.35,31.745z" android:strokeAlpha="0.8"/>
+    <path android:fillAlpha="0.6" android:fillColor="#808080"
+        android:pathData="M31.738,19.023L31.738,25.38h3.175v3.175L38.087,28.555v3.174h6.358L44.445,25.372h-9.523L34.922,19.023h-3.184zM0,19.047v6.358h3.183v-6.358L0,19.047zM6.349,22.221L6.349,28.58h12.707v-6.358h-6.358v3.175L9.532,25.397L9.532,22.22L6.35,22.22z" android:strokeAlpha="0.6"/>
+    <path android:fillColor="#FF000000" android:pathData="M28.57,3.174L28.57,6.35L22.22,6.35L22.22,9.523h-3.175v3.175h-6.348L12.697,15.872L9.532,15.872v-3.174L6.35,12.698v6.358h12.697v22.212h-6.348v3.175L9.532,44.443v-3.175L6.35,41.268v6.358L22.23,47.626L22.23,44.452L28.58,44.452v-3.175h12.689v3.175h6.349v3.174L50.8,47.626L50.8,9.523h-3.174L47.626,6.35L41.277,6.35L41.277,3.174L28.57,3.174zM0,9.524L0,15.88h3.183L3.183,9.523L0,9.523zM28.58,9.533L41.261,9.533L41.261,12.683h0.006v0.024h3.168L44.435,38.07h-3.159v-3.151h-0.007v-0.024L28.564,34.895v3.175L25.39,38.07v1.596h0.005v1.602L22.23,41.268L22.23,15.881h3.175L25.405,12.707h3.174L28.579,9.533zM0,38.093v6.359h3.183v-6.358L0,38.094z"/>
+    <path android:fillAlpha="0.2" android:fillColor="#FF000000"
+        android:pathData="M28.564,9.5v3.174H25.39V15.848h-3.175V41.254h3.183v-3.175h3.175V31.721h-3.175V25.38h3.175V19.031h3.174v-3.175h3.166v3.175H38.087V22.197H34.913v3.183h9.532V12.674H41.27V9.499H28.564z" android:strokeAlpha="0.2"/>
 </vector>

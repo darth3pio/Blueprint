@@ -1,20 +1,32 @@
 [
   {
-    "name": "My wallpaper",
+    "name": "WinRetro Classic Gray",
     "author": "Ian MacFarlane",
-    "url": "https://www.mywebsite.com/wallpapers/my_wallpaper.png",
-    "thumbnail": "https://www.mywebsite.com/wallpapers/thumbnails/my_wallpaper.png",
+    "url": "https://raw.githubusercontent.com/darth3pio/Blueprint/winretro/wallpapers/wallpaper31_default.png",
+    "thumbnail": "https://raw.githubusercontent.com/darth3pio/Blueprint/winretro/wallpapers/wallpaper31_default.png",
     "downloadable": true,
-    "size": 345066,
-    "dimensions": "1280 x 720 px",
+    "size": 291982,
+    "dimensions": "2560 x 2560 px",
     "copyright": "CreativeCommons Attribution-ShareALike"
   },
   {
-    "name": "My other wallpaper",
+    "name": "WinRetro Ocean",
     "author": "Ian MacFarlane",
-    "url": "https://www.mywebsite.com/wallpapers/my_other_wallpaper.png",
-    "thumbnail": "https://www.mywebsite.com/wallpapers/thumbnails/my_other_wallpaper.png",
-    "downloadable": false,
+    "url": "https://raw.githubusercontent.com/darth3pio/Blueprint/winretro/wallpapers/wallpaper31_ocean.png",
+    "thumbnail": "https://raw.githubusercontent.com/darth3pio/Blueprint/winretro/wallpapers/wallpaper31_ocean.png",
+    "downloadable": true,
+    "size": 287003,
+    "dimensions": "2560 x 2560 px",
+    "copyright": "CreativeCommons Attribution-ShareALike"
+  },
+  {
+    "name": "WinRetro Tweed",
+    "author": "Ian MacFarlane",
+    "url": "https://raw.githubusercontent.com/darth3pio/Blueprint/winretro/wallpapers/wallpaper31_tweed.png",
+    "thumbnail": "https://raw.githubusercontent.com/darth3pio/Blueprint/winretro/wallpapers/wallpaper31_tweed.png",
+    "downloadable": true,
+    "size": 664920,
+    "dimensions": "2560 x 2560 px",
     "copyright": "CreativeCommons Attribution-ShareALike"
   }
 ]
